@@ -1,0 +1,23 @@
+{
+    "name": "Pretia.Iarx.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:a3457c3ec2c2f448d83ce629793822ea",
+        "GUID:18d18f811ba286c49814567a3cfba688",
+        "GUID:1a0324566af4ed544918d6837a1f4e11",
+        "GUID:16093a33fcbb0f241a1d2f5e93ea612e",
+        "GUID:119ddd88cc417614fa18c41ff712bc23",
+        "GUID:83fcf74beb8df05438bb928bc84bea7f"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

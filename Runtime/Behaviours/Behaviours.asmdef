@@ -1,0 +1,22 @@
+{
+    "name": "Behaviours",
+    "rootNamespace": "",
+    "references": [
+        "GUID:83fcf74beb8df05438bb928bc84bea7f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "com.unity.xr.arfoundation",
+            "expression": "",
+            "define": "AR_FOUNDATION"
+        }
+    ],
+    "noEngineReferences": false
+}

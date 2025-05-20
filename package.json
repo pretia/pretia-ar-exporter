@@ -1,0 +1,18 @@
+{
+  "name": "com.pretia.exporter",
+  "version": "1.0.0",
+  "displayName": "Pretia AR Exporter",
+  "description": "This package contains the functionality to build and upload Asset bundles for use in Pretia AR.\n\nFor more details see https://docs.pretiaar.com/",
+  "unity": "2021.3",
+  "changelogUrl": "https://docs.pretiaar.com/docs/unity-exporter/changelog",
+  "documentationUrl": "https://docs.pretiaar.com/docs/unity-exporter",
+  "keywords": [
+    "pretia",
+    "iarx"
+  ],
+  "author": {
+    "name": "Pretia Technologies",
+    "email": "support@pretia.co.jp",
+    "url": "https://corporate.pretiaar.com/"
+  }
+}
